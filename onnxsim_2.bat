@@ -1,0 +1,1 @@
+python -m onnxsim model.onnx out_simple.onnx

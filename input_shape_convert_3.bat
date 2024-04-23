@@ -1,0 +1,1 @@
+python -m paddle2onnx.optimize --input_model out_simple.onnx --output_model new_model.onnx --input_shape_dict "{'x':[1,3,48,320]}"
